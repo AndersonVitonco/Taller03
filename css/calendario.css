@@ -1,0 +1,31 @@
+table {
+    border-collapse: collapse;
+    width: 90%;
+    margin: 20px auto;
+}
+
+th, td {
+    border: 1px solid #222;
+    padding: 8px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+
+th {
+    background-color: #232946;
+    color: #eebbc3;
+}
+
+.hora { background-color: #232946; color: #eebbc3; }
+.matematicas { background-color: #1a1a2e; color: #f5f5f5; }
+.ciencias { background-color: #0f3460; color: #f5f5f5; }
+.educacion { background-color: #53354a; color: #f5f5f5; }
+.recreo { background-color: #393e46; color: #ffd369; font-weight: bold; }
+.historia { background-color: #22223b; color: #f5f5f5; }
+.ingles { background-color: #3a4750; color: #f5f5f5; }
+.arte { background-color: #6a0572; color: #f5f5f5; }
+.computacion { background-color: #303960; color: #f5f5f5; }
+.almuerzo { background-color: #393e46; color: #ffd369; font-weight: bold; }
+.taller { background-color: #22223b; color: #ffd369; font-weight: bold; }
+.vacio { background-color: #16161a; }
